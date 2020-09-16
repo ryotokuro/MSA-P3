@@ -1,1 +1,8 @@
-# MSA-P3
+# Microsoft Student Accelerator Project 3
+
+## Target Persona & Design
+Bill Gates is a 20-year-old student who is currently heading a society at his university as an events director. The problem Bill faces when running every event is that he needs to go and print attendance forms for his society. This means that he needs to individually verify that all attendees are signing the form (which creates a bottleneck with only one person being able to sign at a time), and also after the event he has to manually enter this data into a spreadsheet to share with his society and university club committee.
+As such, this application targets the issues that Bill is facing, with the ability for attendees to sign the form themselves and automatically save this information in the society storage on the cloud. Moreover, the app includes features like the ability to field questions about the event without requiring Bill to sign up for a third-party service and information about the event so attendees know when and where it is occurring.
+
+## Application Expansion
+At its current state, the application is quite rigid and would do well to have more interactivity beyond displaying information about the one event provided. So having a space that can hold information for different types of events would provide a platform that can support things beyond university events to things like Meetups, Hackathons and more. Moreover, connecting the application to common services such as Google Calendar, iCal, Messenger would allow reminders to be set up and sharing of certain events to be supported more easily. Along the same line, having universal things such as ticketing or QR code creation would also help event organisers push and monitor information about the event.
